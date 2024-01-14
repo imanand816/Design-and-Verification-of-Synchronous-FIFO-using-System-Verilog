@@ -1,1 +1,3 @@
 # Design-and-Verification-of-Synchronous-FIFO-using-System-Verilog
+
+SystemVerilog-based Design and Verification of Synchronous FIFO: A comprehensive repository for implementing and validating synchronous FIFO (First-In-First-Out) design using SystemVerilog. This project provides a robust framework for designing and verifying synchronous FIFOs, offering a structured and efficient approach to ensure reliable data storage and retrieval in synchronous digital systems. Explore well-documented code, testbenches, and simulation scripts to streamline the development and verification process for your FIFO-based applications.
